@@ -1,0 +1,6 @@
+print("22"+"1")
+print(int("22")+1)
+print(int(-4.9))
+print(bool("False"))
+print(float("1e3"))
+print(1+int("2"))
